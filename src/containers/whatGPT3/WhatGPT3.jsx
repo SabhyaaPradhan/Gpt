@@ -9,7 +9,7 @@ const WhatGPT3 = () => {
         <Feature title="What is GPT-3" text="GPT-3, or Generative Pre-trained Transformer 3, is a cutting-edge AI language model developed by OpenAI, known for its ability to understand and generate human-like text across diverse tasks and contexts." />
       </div>
       <div className='gpt3__whatgpt3-heading'>
-        <h1 className='gradient__text'> The possibilities are beyound your imagination</h1>
+        <h1 className='gradient__text'> The possibilities are beyond your imagination</h1>
         <p>Explore the Library</p>
       </div>
       <div className='gpt3__whatgpt3-container'>
